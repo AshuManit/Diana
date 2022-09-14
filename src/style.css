@@ -1,0 +1,799 @@
+h1 {
+    position: absolute;
+    width: 183px;
+    height: 30px;
+    left: 96px;
+    top: 146px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 30px;
+    
+    color: #1B1B50;
+    }
+    h2 {
+        position: absolute;
+    width: 290px;
+    height: 23px;
+    left: 42px;
+    top: 213px;
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    
+    }
+    .intro {
+        position: absolute;
+    width: 308px;
+    height: 75px;
+    left: 33px;
+    top: 273px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 179%;
+    /* or 25px */
+    
+    
+    color: #000000;
+    }
+    
+    h4 {
+        position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 99px;
+    top: 406px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #1B1B50;
+    
+    }
+    
+    h3 {
+        position: absolute;
+    width: 303px;
+    height: 132px;
+    left: 35px;
+    top: 476px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 134.8%;
+    /* or 44px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    }
+    
+    .desc {
+        position: absolute;
+    width: 308px;
+    height: 232px;
+    left: 33px;
+    top: 645px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    
+    }
+    
+    .footer{
+        position: absolute;
+    width: 375px;
+    height: 390px;
+    left: 0px;
+    top: 6693px;
+    
+    background: #808080;
+        
+    }
+    
+    .fb{
+        position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    
+    }
+    
+    .footerlink {
+        position: absolute;
+    width: 59px;
+    height: 29px;
+    left: 37px;
+    top: 6810px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000;
+    }
+    
+    .hr {
+        position: absolute;
+    width: 297px;
+    height: 0px;
+    left: 46px;
+    top: 374px;
+    
+    border: 1px solid #000000;
+    }
+    
+    .icontest {
+        position: absolute;
+    width: 39.25px;
+    height: 33.14px;
+    left: 159.99px;
+    top: 925.87px;
+    
+    /* Iris/60 */
+    
+    
+    }
+    
+    .icontest2 {
+        position: absolute;
+    width: 39.25px;
+    height: 33.14px;
+    left: 159.99px;
+    top: 1100.87px;
+    
+    /* Iris/60 */
+    
+    
+    }
+    
+    .icontest3 {
+        position: absolute;
+        width: 39.25px;
+        height: 33.14px;
+        left: 159.99px;
+        top: 1274.87px;
+        
+        /* Iris/60 */
+        
+    }
+    
+    .iconfont {
+        position: absolute;
+    width: 309px;
+    height: 493px;
+    left: 32px;
+    top: 1005px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    
+    }
+    
+    .iconfont2 {
+        position: absolute;
+    width: 309px;
+    height: 493px;
+    left: 32px;
+    top: 1180px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    
+    }
+    
+    .iconfont3 {
+        position: absolute;
+    width: 309px;
+    height: 493px;
+    left: 32px;
+    top: 1353px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    
+    }
+    .iconfont4 {
+        position: absolute;
+    width: 309px;
+    height: 493px;
+    left: 32px;
+    top: 1500px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    
+    }
+    
+    .pink {
+        position: absolute;
+    width: 375px;
+    height: 841px;
+    left: 0px;
+    top: 1725px;
+    
+    background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+    }
+    
+    .pinkh {
+        color: #080808;
+        position: absolute;
+    width: 295px;
+    height: 33px;
+    left: 34px;
+    top: 1764px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #080808;
+    }
+    
+    .ph2 {
+        position: absolute;
+    width: 335px;
+    height: 86px;
+    left: 34px;
+    top: 1834px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    
+    
+    color: #1B1B50;
+    }
+    
+    .pbody {
+        position: absolute;
+    width: 308px;
+    height: 575px;
+    left: 34px;
+    top: 1949px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+    
+    
+    color: #1B1B50;
+    
+    }
+    
+    .cbody {
+        position: absolute;
+    width: 375px;
+    height: 411px;
+    left: 0px;
+    top: 2566px;
+    
+    background: #DCE9E9;
+    }
+    
+    .cbodyh {
+        position: absolute;
+    width: 335px;
+    height: 66px;
+    left: 33px;
+    top: 2605px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    
+    color: #1B1B50;
+    }
+    
+    .cbodyh2 {
+        position: absolute;
+    width: 329px;
+    height: 86px;
+    left: 33px;
+    top: 2708px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    
+    
+    color: #000000;
+    }
+    
+    .cbodydsc {
+        position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 33px;
+    top: 2815px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+    
+    
+    color: rgba(0, 0, 0, 0.8);
+    
+    
+    }
+    
+    .buttona {
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 185px;
+    height: 16px;
+    left: 30px;
+    top: 2993px;
+    
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 70px;
+    }
+    
+    .buttonatext {
+        width: 237px;
+    height: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .tag {
+        position: absolute;
+    width: 335px;
+    height: 33px;
+    left: 20px;
+    top: 3080px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.8);
+    
+    }
+    
+    .rose {
+        position: absolute;
+    width: 375px;
+    height: 562px;
+    left: 0px;
+    top: 2910px;
+    
+    background: linear-gradient(180deg, #DCE9E9 11.21%, rgba(220, 233, 233, 0.15) 42.17%), url(pexels-karolina-grabowska-4041391.jpg);
+    }
+    
+    .trackh {
+        position: absolute;
+    width: 245px;
+    height: 43px;
+    left: 30px;
+    top: 3511px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    
+    
+    color: #000000;
+    }
+    
+    .dbodydsc {
+        position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 33px;
+    top: 3577px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+    
+    
+    color: rgba(0, 0, 0, 0.8);
+    
+    
+    }
+    
+    .buttonb {
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 225px;
+    height: 26px;
+    left: 30px;
+    top: 3755px;
+    
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+    }
+    
+    .pic1 {
+        position: absolute;
+    width: 164px;
+    height: 164px;
+    left: 11px;
+    top: 3854px;
+    
+    background: url(pic1.png);
+    }
+    
+    .pic2 {
+        position: absolute;
+    width: 164px;
+    height: 164px;
+    left: 200px;
+    top: 3854px;
+    
+    background: url(pic2.png);
+    }
+    
+    .pic3 {
+        position: absolute;
+    width: 164px;
+    height: 164px;
+    left: 11px;
+    top: 4043px;
+    
+    background: url(pic3.png);
+    }
+    
+    .pic4 {
+        position: absolute;
+    width: 164px;
+    height: 164px;
+    left: 200px;
+    top: 4043px;
+    
+    background: url(pic4.png);
+    }
+    
+    .ebody {
+        position: absolute;
+    width: 375px;
+    height: 394px;
+    left: 0px;
+    top: 4244px;
+    
+    background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%);
+    }
+    
+    .trackh2 {
+        position: absolute;
+    width: 245px;
+    height: 43px;
+    left: 30px;
+    top: 4250px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    
+    
+    color: #000000;
+    
+    }
+    
+    .ebodydsc {
+        position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 33px;
+    top: 4347px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+    
+    
+    color: rgba(0, 0, 0, 0.8);
+    
+    }
+    
+    .button3 {
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 215px;
+    height: 26px;
+    left: 33px;
+    top: 4525px;
+    
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 70px;
+    }
+    
+    .button3d {
+        width: 283px;
+    height: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .cal {
+        position: absolute;
+    width: 375px;
+    height: 375px;
+    left: 0px;
+    top: 4638px;
+    
+    background: url(cal.png);
+    }
+    
+    .fbodyh {
+        position: absolute;
+    width: 335px;
+    height: 86px;
+    left: 27px;
+    top: 5033px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    
+    
+    color: #000000;
+    }
+    
+    .fbodydsc {
+        position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 30px;
+    top: 5141px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+    
+    
+    color: rgba(0, 0, 0, 0.8);
+    
+    
+    }
+    
+    .button6 {
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 215px;
+    height: 26px;
+    left: 30px;
+    top: 5319px;
+    
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+    }
+    
+    .button6t {
+        width: 186px;
+    height: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .doc {
+        position: absolute;
+    width: 375px;
+    height: 250px;
+    left: 0px;
+    top: 5420px;
+    
+    background: url(doc.png);
+    }
+    
+    .hl {
+        position: absolute;
+    width: 335px;
+    height: 86px;
+    left: 33px;
+    top: 5709px;
+    
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    
+    
+    color: rgba(255, 255, 255, 0.8);
+    }
+    
+    .gbody {
+        position: absolute;
+    width: 375px;
+    height: 646px;
+    left: 0px;
+    top: 5670px;
+    
+    background: #F66E6E;
+    }
+    
+    .gbox {
+        position: absolute;
+    width: 387px;
+    height: 290px;
+    left: -12px;
+    top: 155px;
+    
+    background: url(box.png);
+    }
